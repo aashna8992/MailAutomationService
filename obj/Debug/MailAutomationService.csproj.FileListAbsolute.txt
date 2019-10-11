@@ -1,0 +1,9 @@
+C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\obj\Debug\MailAutomationService.RatesMarkettingMailAutomationService.resources
+C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\obj\Debug\MailAutomationService.csproj.GenerateResource.cache
+C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\obj\Debug\MailAutomationService.csproj.CoreCompileInputs.cache
+C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe.config
+C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe
+C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.pdb
+C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\obj\Debug\MailAutomationService.exe
+C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\obj\Debug\MailAutomationService.pdb
+C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\obj\Debug\MailAutomationService.ProjectInstaller.resources

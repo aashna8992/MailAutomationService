@@ -1,0 +1,49 @@
+﻿Installing assembly 'C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.InstallLog
+   assemblypath = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe assembly.
+Committing assembly 'C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.InstallLog
+   assemblypath = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.InstallLog
+   assemblypath = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe assembly.
+Committing assembly 'C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.InstallLog
+   assemblypath = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.InstallLog
+   assemblypath = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe
+Removing EventLog source RatesMarkettingMailAutomationService.
+Service RatesMarkettingMailAutomationService is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.InstallLog
+   assemblypath = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe
+Installing service RatesMarkettingMailAutomationService...
+Service RatesMarkettingMailAutomationService has been successfully installed.
+Creating EventLog source RatesMarkettingMailAutomationService in log Application...
+Committing assembly 'C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.InstallLog
+   assemblypath = C:\Users\abutala.FBTESTNET\Source\repos\MailAutomationService\MailAutomationService\bin\Debug\MailAutomationService.exe
